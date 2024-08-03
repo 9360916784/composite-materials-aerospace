@@ -1,0 +1,26 @@
+material,category,density(g/cm^3),strength(MPa),modulus(GPa),thermal_conductivity(W/mK),melting_point(°C),cost(USD/kg),manufacturing_process,recyclability
+Aluminum 7075,Alloy,2.81,570,71,130,477,3.5,Forging,Yes
+Aluminum 6061,Alloy,2.7,310,69,167,582,2.8,Extrusion,Yes
+Titanium 6Al-4V,Alloy,4.43,900,110,6.7,1668,18.5,Hot Isostatic Pressing (HIP),Yes
+Carbon Fiber Reinforced Polymer (CFRP),Composite,1.6,1500,181,Not applicable,Does not melt, decomposes above 3000°C,25,Pultrusion,No
+Kevlar,Composite,1.44,3620,83,0.04,Does not melt, decomposes above 450°C,80,Braiding,No
+Inconel 718,Superalloy,8.19,1250,200,11.3,1336,45,Powder Metallurgy,Yes
+Inconel 625,Superalloy,8.44,827,207,11.8,1290,40,Casting,Yes
+Ceramic Matrix Composite (CMC),Composite,2.0,600,220,15,Does not melt, decomposes above 3000°C,150,Chemical Vapor Infiltration (CVI),Yes
+Stainless Steel 304,Alloy,7.9,505,193,16.2,1400,3.2,Casting,Yes
+Stainless Steel 316,Alloy,8.0,520,193,16.3,1370,3.5,Rolling,Yes
+Nickel-based Superalloy,Superalloy,8.4,1000,210,12,1390,50,Investment Casting,Yes
+Titanium 6Al-2Sn-4Zr-2Mo,Alloy,4.43,1100,105,6.7,1668,22,Hot Rolling,Yes
+Titanium 6Al-6V-2Sn,Alloy,4.43,1000,110,6.7,1668,21,Hot Forging,Yes
+Inconel 600,Superalloy,8.47,550,207,15.2,1368,38,Casting,Yes
+Inconel X-750,Superalloy,8.27,1260,204,14.4,1393,60,Extrusion,Yes
+Aluminum 2024,Alloy,2.78,483,73,130,477,2.7,Extrusion,Yes
+Carbon Fiber Reinforced Plastic (CFRP),Composite,1.55,3000,181,Not applicable,Does not melt, decomposes above 3000°C,30,Autoclave Molding,No
+Fiberglass,Composite,2.55,3450,72,0.05,Does not melt, decomposes above 1000°C,5,Pultrusion,No
+Boron Fiber Reinforced Polymer (BFRP),Composite,1.9,2800,230,0.02,Does not melt, decomposes above 1000°C,60,Braiding,No
+Glass Fiber Reinforced Polymer (GFRP),Composite,1.95,3100,40,0.04,Does not melt, decomposes above 1000°C,15,Pultrusion,No
+Stainless Steel 17-4 PH,Alloy,7.8,1100,207,15,1400,4.5,Casting,Yes
+Nickel 200,Superalloy,8.9,462,207,70,1446,35,Rolling,Yes
+Nickel 201,Superalloy,8.9,462,207,70,1446,40,Rolling,Yes
+Hastelloy C-276,Superalloy,8.89,850,205,10.5,1370,75,Forging,Yes
+Hastelloy X,Superalloy,8.22,900,209,10.4,1240,85,Forging,Yes
